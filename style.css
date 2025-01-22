@@ -40,7 +40,7 @@ h6 {
 	z-index: 1030;
 }
 .navbar .active {
-	color: #5f0099 !important;
+	color: #000000 !important;
 }
 .navbar .navbar-brand {
 }
@@ -189,7 +189,7 @@ h6 {
 	height: 135px;
 	border-radius: 100px;
 	background: #7a60ff;
-	background:  linear-gradient(to left, #7a60ff, #cd9ffa);
+	background:  linear-gradient(to left, #e4c598, #8c5b2c);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
