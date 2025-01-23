@@ -500,13 +500,13 @@ input {
 @media all and (max-width:991px) {
 .navbar .navbar-collapse {
 	overflow: auto;
-	background:  rgb(213, 198, 221);
-	color: #fff !important;
+	background-color:  #f2e0c8;
+	color: #f2e0c8 !important;
 	text-align: center;
 	padding: 10px 0;
 }
 .nav-scroll .navbar-collapse {
-	background: #fff !important;
+	background: #f2e0c8 !important;
 }
 #contact_form {
 	margin-bottom:20px;
